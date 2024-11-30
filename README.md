@@ -1,1 +1,1 @@
-# Proyectos_ML
+Este repositorio contiene una colección de proyectos de Machine Learning con características variadas, que incluyen tareas como clasificación, regresión, etc. Cada proyecto está organizado con su código, datasets, modelos entrenados y documentación, facilitando la reproducción y el aprendizaje.
